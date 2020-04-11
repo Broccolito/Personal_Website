@@ -5,8 +5,8 @@ account: wanjun-gu
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 704529
-bundleId: 2980026
+bundleId: 3001174
 url: https://wanjun-gu.shinyapps.io/WG_Personal_Website/
-when: 1586252523.49217
+when: 1586640550.1272
 asMultiple: FALSE
 asStatic: FALSE
